@@ -12,7 +12,7 @@ A Book sharing and Exchanging Platform where every user can create their profile
 
 Limitations:
 ---
-Some portion havn't build fully. I will work on it. Or any one can contribute without ani hasitaion.
+Some portion havn't build yet fully. I will work on those and feel free to contribute.
 
 How to run:
 ---
