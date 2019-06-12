@@ -10,6 +10,10 @@ Description:
 ---
 A Book sharing and Exchanging Platform where every user can create their profile, Post to share/exchange or both including price, screenshots, documentation etc., see others posts on their feed, and finally they can communicate to share or exchange books.
 
+Limitations:
+---
+Some portion havn't build fully. I will work on it. Or any one can contribute without ani hasitaion.
+
 How to run:
 ---
 1. copy and pest the "bookish_code" folder to "C:\xampp\htdocs" directory.
