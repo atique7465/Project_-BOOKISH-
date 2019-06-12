@@ -17,5 +17,5 @@ how to run:
 3. brows http://localhost/phpmyadmin/ from any browser.
 4. create a databse named "atik" from phpmyadmin dashboard.
 5. hit the "SQL" button and copy pest the codes from "bookish_data.sql" file to editor and hit the "GO" button to create the database.
-6. run http://localhost/bookish_code/ from brouser.
+6. run http://localhost/bookish_code/ from browser.
 7. there you go :XD
