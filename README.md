@@ -10,7 +10,7 @@ Description:
 ---
 A Book sharing and Exchanging Platform where every user can create their profile, Post to share/exchange or both including price, screenshots, documentation etc., see others posts on their feed, and finally they can communicate to share or exchange books.
 
-how to run:
+How to run:
 ---
 1. copy and pest the "bookish_code" folder to "C:\xampp\htdocs" directory.
 2. run Apache and MySQL servers from XAMPP control panel.
